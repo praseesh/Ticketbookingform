@@ -1,0 +1,76 @@
+body{
+    margin: 0;
+
+}
+.topsection{
+    height: 170px;
+    width: 100%;
+    background-color: rgb(255, 181, 32);
+    margin-top: -37px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+    
+}
+h1{
+    padding-top: 70px;
+    margin-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    color: #fff;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.9);
+}
+.bg5{
+    margin-top:0px;
+    height: 78vh; /* Set height to 100% of the viewport height */
+    width: 100vw; /* Set width to 100% of the viewport width */
+    background-image: url(images/STEAM_TRAIN_ON_THE_BRIDGE_2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 104px;
+}
+.btn{
+    display: inline-block;
+    margin-left: 48%;
+    height: 60px;
+    width: 139px;
+    background: #2accc8;
+    border-radius: 10px;
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    font-size: 30px;
+    color: aliceblue;
+}
+.box3 {
+    height: 482px;
+    width: 0px;
+    text-align: center;
+    background-color: #fff;
+    border-radius: 15px;
+    padding-top: 0px;
+    padding-left: 384px;
+    margin-left: 780px;
+    margin-top: -99px;
+}
+td{
+    /* margin-top: 10px; */
+
+    height: 98px;
+    width: 232px;
+    border: 3px;
+    border-color: palevioletred;
+    border-style: groove;
+    border-radius: 7px;
+}
+td:hover{
+    background-color: aquamarine;
+}
+table{
+    margin-left: -382px;
+    padding-top: 25px;
+}
+tr{
+    margin-left: 10px;
+}
+btn1{
+    text-decoration: none;
+}
